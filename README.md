@@ -28,14 +28,4 @@
 - Microsoft Excel
 - SQL Server Management Studio
 
-## Installation
-1. Clone this repository
-2. Extract the visualization assets from the zip file
-3. Open Pizza_Sales_Report.pbix in Power BI Desktop
-4. Ensure data connections are properly configured
-5. Refresh the report if needed
 
-
-
----
-**Note**: Power BI Desktop or Power BI Service access required to view interactive dashboard.
